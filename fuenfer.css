@@ -24,6 +24,10 @@ hr {
     flex-wrap: wrap;   
 }
 
+#answer {
+    color: white
+}
+
 .tile {
     /* Box */ 
     border: 2px solid lightgray;
